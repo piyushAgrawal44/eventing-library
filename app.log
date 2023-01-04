@@ -1,0 +1,18 @@
+eventName --> say-hello method --> on eventTimestamp --> 23:29:08 23-29-03
+eventName --> say-hello method --> trigger eventTimestamp --> 23:29:08 23-29-03
+eventName --> say-hello method --> off eventTimestamp --> 23:29:08 23-29-03
+eventName --> say-hello method --> on eventTimestamp  --> 23:31:23 23-31-03
+eventName --> say-hello method --> trigger eventTimestamp --> --> 23:31:23 23-31-03
+eventName --> say-hello method --> off eventTimestamp --> --> 23:31:23 23-31-03
+eventName --> say-hello method --> on eventTimestamp  --> 23:33:19 23-33-03
+eventName --> say-hello method --> trigger eventTimestamp --> --> 23:33:19 23-33-03
+eventName --> say-hello method --> off eventTimestamp --> --> 23:33:19 23-33-03
+eventName --> say-bye method --> on eventTimestamp  --> 23:34:30 23-34-03
+eventName --> say-bye method --> trigger eventTimestamp --> --> 23:34:30 23-34-03
+eventName --> say-bye method --> off eventTimestamp --> --> 23:34:30 23-34-03
+eventName --> say-bye method --> on eventTimestamp  --> 23:36:52 23-36-03
+eventName --> say-bye method --> trigger eventTimestamp --> --> 23:36:52 23-36-03
+eventName --> say-bye method --> off eventTimestamp --> --> 23:36:52 23-36-03
+eventName --> say-bye method --> on eventTimestamp  --> 23:40:45 23-40-03
+eventName --> say-bye method --> trigger eventTimestamp --> --> 23:40:45 23-40-03
+eventName --> say-bye method --> off eventTimestamp --> --> 23:40:45 23-40-03
